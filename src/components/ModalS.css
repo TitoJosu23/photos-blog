@@ -1,0 +1,27 @@
+.button{
+    padding: .2%;
+    background-color: rgb(255, 255, 255);
+    color:black;
+    border : 2px solid black;
+}
+.sc{
+    text-align: space-between;
+}
+.button{
+    margin-left: 65%;
+    padding: .3%;
+}
+@media only screen and (max-width: 800px) {
+    .button{
+        margin-left: 20%;
+        padding-left: 2.5%;
+        padding-right: 2.5%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        
+    }
+}
+.separate{
+    width: 35%;
+    margin: auto;
+}

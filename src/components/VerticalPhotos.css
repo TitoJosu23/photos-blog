@@ -1,0 +1,18 @@
+.VerticalPhotos{
+    width: 15.5%;
+    background-color: rgb(0, 0, 0);
+    padding: 0.2%;
+    margin: 0.2%;
+    display: inline-block;
+}
+@media only screen and (max-width: 800px) {
+    .VerticalPhotos{
+    background-color: white;
+    padding: 0.5%;
+    width: 92%;
+    margin: 0.6%;
+    display: inline-block;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    padding-bottom: 1.5% !important;
+    }
+}
